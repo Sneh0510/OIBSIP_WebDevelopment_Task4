@@ -4,10 +4,12 @@ A simple web application to manage your daily tasks. This project demonstrates f
 
 ## Features
 
+- User registration and login system
+- Logout functionality
 - Add new tasks to your to-do list
 - Mark tasks as completed
-- Remove tasks from the list
-- Responsive and clean user interface
+- Delete tasks from the list
+- Clean and responsive interface
 
 ## Project Structure
 
